@@ -3,3 +3,7 @@
 ** Usage
 
 ** Installation
+
+** Author
+
++ Patrick Bunetic (soup-jingle@protonmail.com)
